@@ -4,3 +4,11 @@
   <img src="https://camo.githubusercontent.com/33a88742a4c2007e41b467f181b79c7f68650b056f27ac9d38176995f68ad586/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637070" alt="C++" width="45" height="45"/>
   <img src="https://camo.githubusercontent.com/ffa7b120ef5eca755e9a119e96882fe9743634dec1970a0c8076907390c9c989/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6373" alt="C#" width="45" height="45"/>
   </p>
+
+
+
+### 🏆 إحصائيات GitHub الخاصة بي
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&locale=en&theme=dark" alt="إحصائيات GitHub" />
+</p>
