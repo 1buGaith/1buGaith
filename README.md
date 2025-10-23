@@ -6,8 +6,3 @@
   </p>
 
 
-
-### 🏆 إحصائيات GitHub الخاصة بي
-<p align="center">
-  <img src="https://raw.githubusercontent.com/1buGaith/1buGaith/output/dist/github-contribution-grid-snake.svg" alt="GitHub Snake" />
-</p>
