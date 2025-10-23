@@ -10,5 +10,5 @@
 ### 🏆 إحصائيات GitHub الخاصة بي
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&locale=en&theme=dark" alt="إحصائيات GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1buGaith&show_icons=true&locale=en&theme=dark" alt="إحصائيات GitHub" />
 </p>
