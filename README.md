@@ -1,14 +1,13 @@
 markdown<div align="center">
 
-# 👋 Hello, I'm [Your Name] | مرحباً، أنا [اسمك]
+# 👋 Hello, I'm [Mohammed]
 
-### 📊 Data Analyst & AI Enthusiast | محلل بيانات ومهتم بالذكاء الاصطناعي
-
+### 📊 Data Analyst & AI Enthusiast 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+%D9%85%D8%AD%D9%84%D9%84+%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA;AI+%26+Machine+Learning+Engineer;Turning+Data+into+Insights)](https://git.io/typing-svg)
 
 ---
 
-## 🛠️ Programming Languages | لغات البرمجة
+## 🛠️ Programming Languages 
 
 
 <p align="center">
@@ -19,7 +18,7 @@ markdown<div align="center">
   </p>
 
 
-## 📊 GitHub Statistics | إحصائيات GitHub
+## 📊 GitHub Statistics 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=1buGaith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
@@ -32,7 +31,7 @@ markdown<div align="center">
 
 ---
 
-## 🏆 GitHub Trophies | إنجازات GitHub
+## 🏆 GitHub Trophies 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=1buGaith&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies"/>
@@ -40,7 +39,7 @@ markdown<div align="center">
 
 ---
 
-## 📈 GitHub Activity Graph | رسم النشاط
+## 📈 GitHub Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=1buGaith&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B" alt="Activity Graph"/>
@@ -48,7 +47,7 @@ markdown<div align="center">
 
 ---
 
-## 💡 Random Dev Quote | اقتباس برمجي
+## 💡 Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
@@ -61,7 +60,7 @@ markdown<div align="center">
 </p>
 
 <p align="center">
-  💙 "In Data We Trust" | "بالبيانات نثق" 💙
+  💙 "In Data We Trust"
 </p>
 
 <p align="center">
