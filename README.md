@@ -1,71 +1,138 @@
-markdown<div align="center">
+<div align="center">
 
-# 👋 Hello, I'm [Mohammed]
+# 👋 Hello, I'm Gaith | مرحباً، أنا غيث
 
-### 📊 Data Analyst & AI Enthusiast 
+### 📊 Data Analyst & AI Enthusiast | محلل بيانات ومهتم بالذكاء الاصطناعي
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+%D9%85%D8%AD%D9%84%D9%84+%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA;AI+%26+Machine+Learning+Engineer;Turning+Data+into+Insights)](https://git.io/typing-svg)
 
 ---
 
-## 🛠️ Programming Languages 
-
-
-<p align="center">
-  <img src="https://camo.githubusercontent.com/1594bb61e85b22739a2e8fa02ea68154f8969efc2f280a47f2602f99d5f0fc0e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7079" alt="Python" width="45" height="45"/>
-  <img src="https://camo.githubusercontent.com/16edff857d92b7794d5f4241aa88b9db4463d06eb52b38624a5fe1cad1584e53/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a73" alt="Java" width="45" height="45"/>
-  <img src="https://camo.githubusercontent.com/33a88742a4c2007e41b467f181b79c7f68650b056f27ac9d38176995f68ad586/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637070" alt="C++" width="45" height="45"/>
-  <img src="https://camo.githubusercontent.com/ffa7b120ef5eca755e9a119e96882fe9743634dec1970a0c8076907390c9c989/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6373" alt="C#" width="45" height="45"/>
-  </p>
-
-
-## 📊 GitHub Statistics 
+## 🛠️ Programming Languages | لغات البرمجة
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1buGaith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1buGaith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1buGaith&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
+  <img src="https://skillicons.dev/icons?i=py,js,cpp,cs,r,java" alt="Programming Languages"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies 
+## 🤖 AI & Data Science Stack | مجموعة أدوات الذكاء الاصطناعي
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=1buGaith&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophies"/>
-</p>
-
-
----
-
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1buGaith&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B" alt="Activity Graph"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" alt="AI Tools"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase" alt="Databases"/>
 </p>
 
 ---
 
-## 💡 Random Dev Quote
+## 📊 GitHub Statistics | إحصائيات GitHub
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1buGaith&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1buGaith&theme=radical&hide_border=true" />
+</td>
+
+<td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1buGaith&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Current Focus | التركيز الحالي
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Gaith"
+        self.role = "Data Analyst & AI Engineer"
+        self.location = "Jordan 🇯🇴"
+        
+    def current_work(self):
+        return {
+            "learning": ["Deep Learning", "NLP", "Computer Vision"],
+            "tools": ["Python", "TensorFlow", "PyTorch"],
+            "interests": ["AI Research", "Data Analytics", "ML Models"]
+        }
+
+me = DataScientist()
+print("Welcome to my GitHub! Let's build something amazing 🚀")
+```
+
+---
+
+## 🏆 Achievements | الإنجازات
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=1buGaith&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=1buGaith&label=Profile%20Views%20%7C%20%D8%B2%D9%88%D8%A7%D8%B1%20%D8%A7%D9%84%D9%85%D9%84%D9%81&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+## 💼 Tech Stack | التقنيات المستخدمة
+
+### Data Science & ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Data Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 📫 Connect With Me | تواصل معي
 
 <p align="center">
-  💙 "In Data We Trust"
+  <a href="https://linkedin.com/in/1buGaith">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/1buGaith">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://kaggle.com/1buGaith">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
+---
+
+## 💡 Random Dev Quote | اقتباس برمجي
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
+
+---
+
+<div align="center">
+
+### 📊 Profile Views | عدد الزوار
+
+![](https://komarev.com/ghpvc/?username=1buGaith&style=for-the-badge&color=red)
+
+---
+
+### 💙 "In Data We Trust" | "بالبيانات نثق" 💙
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
 
 </div>
