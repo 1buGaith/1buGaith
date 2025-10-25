@@ -45,30 +45,55 @@
 
 ## 🎯 Current Focus | التركيز الحالي
 ```python
+import awesome
+from genius import BrilliantIdeas
+from reality import DebuggingHell
+
 class DataScientist:
     def __init__(self):
         self.name = "Gaith"
-        self.role = "Data Analyst & AI Engineer"
-        self.location = "Jordan 🇯🇴"
+        self.title = "Professional Data Tamer 🦁 | AI Trainer 🤖"
+        self.location = "Jordan 🇯🇴 (where the magic happens ✨)"
+        self.experience = "Error 404: Experience not found, but confidence is 💯"
         
-    def current_work(self):
+    def morning_routine(self):
+        steps = [
+            "1️⃣ Wake up",
+            "2️⃣ Question life choices",
+            "3️⃣ Remember I love coding ❤️",
+            "4️⃣ Drink coffee ☕",
+            "5️⃣ Be awesome 😎"
+        ]
+        return steps
+    
+    def skills_rating(self):
         return {
-            "learning": ["Deep Learning", "NLP", "Computer Vision"],
-            "tools": ["Python", "TensorFlow", "PyTorch"],
-            "interests": ["AI Research", "Data Analytics", "ML Models"]
+            "Python": "⭐⭐⭐⭐⭐",
+            "Machine Learning": "⭐⭐⭐⭐⭐",
+            "Deep Learning": "⭐⭐⭐⭐⭐",
+            "Debugging": "⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ (Expert Level 🏆)",
+            "Making Arabic Coffee": "⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐"
         }
+    
+    def current_mood(self):
+        code_works = random.choice([True, False])
+        if code_works:
+            return "😎 Living the dream! Code runs perfectly!"
+        else:
+            return "🤔 It worked yesterday... I swear!"
 
+# Deploy the legend! 🚀
 me = DataScientist()
-print("Welcome to my GitHub! Let's build something amazing 🚀")
+
+print("🎪 Welcome to Gaith's Digital Circus!")
+print("🎯 Where bugs become features and features become legendary!")
+print("💡 Powered by: Coffee ☕ | Passion 🔥 | Google 🔍")
+print("🌟 Remember: There are only 10 types of people in the world...")
+print("   Those who understand binary, and those who don't! 😄")
 ```
 
 ---
 
-## 🏆 Achievements | الإنجازات
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=1buGaith&theme=radical&no-frame=true&row=1&column=6" />
-</p>
 
 ---
 
