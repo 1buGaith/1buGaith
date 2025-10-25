@@ -19,53 +19,6 @@ markdown<div align="center">
   </p>
 
 
-## 🤖 AI & Data Science Tools | أدوات الذكاء الاصطناعي وعلم البيانات
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50" height="50"/>
-</p>
-
-## 📊 Data Visualization & BI Tools | أدوات تصور البيانات
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="Plotly" width="50" height="50"/>
-</p>
-
-## 💾 Databases & Cloud | قواعد البيانات والسحابة
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="50" height="50"/>
-</p>
-
-## 🔧 Development Tools | أدوات التطوير
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="50" height="50"/>
-</p>
-
----
-
 ## 📊 GitHub Statistics | إحصائيات GitHub
 
 <p align="center">
@@ -77,7 +30,6 @@ markdown<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
 </p>
 
----
 
 ## 🏆 GitHub Trophies | إنجازات GitHub
 
@@ -85,7 +37,7 @@ markdown<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=username&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies"/>
 </p>
 
----
+
 
 ## 📈 GitHub Activity Graph | رسم النشاط
 
@@ -93,19 +45,25 @@ markdown<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=username&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B" alt="Activity Graph"/>
 </p>
 
----
 
-## 🌟 Featured Projects | مشاريعي المميزة
+## 💡 Random Dev Quote | اقتباس برمجي
 
 <p align="center">
-  <a href="https://github.com/username/repo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=username&repo=repo1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="Repo 1"/>
-  </a>
-  <a href="https://github.com/username/repo2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=username&repo=repo2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="Repo 2"/>
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </p>
 
 ---
 
-## 🎯 Skills & Expertise | المهارات والخبرات
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=username&label=Profile%20Views%20%7C%20%D8%B2%D9%88%D8%A7%D8%B1%20%D8%A7%D9%84%D9%85%D9%84%D9%81&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  💙 "In Data We Trust" | "بالبيانات نثق" 💙
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
+</p>
+
+</div>
