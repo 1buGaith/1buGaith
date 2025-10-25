@@ -121,10 +121,12 @@ print("💡 Remember: It's not a bug, it's a feature! 😎")
 
 ---
 
-## 💡 Words of Wisdom | كلمات من القلب
+## 💡 My Quote | مقولتي
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+First%2C+solve+the+problem.+Then%2C+write+the+code;%E2%98%95+Coffee+%2B+Code+%3D+Magic;%F0%9F%9A%80+Dream+big%2C+code+bigger!;%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA+%D9%87%D9%8A+%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84+%F0%9F%93%8A" alt="Typing SVG" />
+  <i>"Code is like humor. When you have to explain it, it's bad!"</i>
+  <br>
+  <i>"الكود مثل الفكاهة، إذا اضطررت تشرحه، معناه سيء! 😄"</i>
 </p>
 ---
 
