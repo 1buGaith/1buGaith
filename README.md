@@ -1,14 +1,14 @@
 <div align="center">
 
-# 👋 Hello, I'm Gaith | مرحباً، أنا غيث
+# 👋 Hello, I'm Mohammed
 
-### 📊 Data Analyst & AI Enthusiast | محلل بيانات ومهتم بالذكاء الاصطناعي
+### 📊 Data Analyst & AI Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+%D9%85%D8%AD%D9%84%D9%84+%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA;AI+%26+Machine+Learning+Engineer;Turning+Data+into+Insights)](https://git.io/typing-svg)
 
 ---
 
-## 🛠️ Programming Languages | لغات البرمجة
+## 🛠️ Programming Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,cpp,cs,r,java" alt="Programming Languages"/>
@@ -16,7 +16,7 @@
 
 ---
 
-## 🤖 AI & Data Science Stack | مجموعة أدوات الذكاء الاصطناعي
+## 🤖 AI & Data Science Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" alt="AI Tools"/>
@@ -25,7 +25,7 @@
 
 ---
 
-## 📊 GitHub Statistics | إحصائيات GitHub
+## 📊 GitHub Statistics
 
 <table align="center">
 <tr border="none">
@@ -42,7 +42,7 @@
 </table>
 
 ---
-## 🎯 Current Focus | التركيز الحالي
+## 🎯 Current Focus
 ```python
 class DataScientist:
     def __init__(self):
@@ -80,7 +80,7 @@ print("💡 Remember: It's not a bug, it's a feature! 😎")
 
 ---
 
-## 💼 Tech Stack | التقنيات المستخدمة
+## 💼 Tech Stack
 
 ### Data Science & ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -102,7 +102,7 @@ print("💡 Remember: It's not a bug, it's a feature! 😎")
 
 ---
 
-## 📫 Connect With Me | تواصل معي
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/1buGaith">
@@ -121,7 +121,7 @@ print("💡 Remember: It's not a bug, it's a feature! 😎")
 
 ---
 
-## 💡 Random Dev Quote | اقتباس برمجي
+## 💡 Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
@@ -131,13 +131,13 @@ print("💡 Remember: It's not a bug, it's a feature! 😎")
 
 <div align="center">
 
-### 📊 Profile Views | عدد الزوار
+### 📊 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=1buGaith&style=for-the-badge&color=red)
 
 ---
 
-### 💙 "In Data We Trust" | "بالبيانات نثق" 💙
+### 💙 "In Data We Trust"
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
