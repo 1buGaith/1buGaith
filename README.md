@@ -22,29 +22,31 @@ markdown<div align="center">
 ## 📊 GitHub Statistics | إحصائيات GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?1buGaith=1buGaith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?1buGaith=1buGaith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=1buGaith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1buGaith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=1buGaith&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
 </p>
 
+---
 
 ## 🏆 GitHub Trophies | إنجازات GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?1buGaith=1buGaith&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=1buGaith&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies"/>
 </p>
 
-
+---
 
 ## 📈 GitHub Activity Graph | رسم النشاط
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?1buGaith=1buGaith&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1buGaith&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B" alt="Activity Graph"/>
 </p>
 
+---
 
 ## 💡 Random Dev Quote | اقتباس برمجي
 
@@ -55,7 +57,7 @@ markdown<div align="center">
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=username&label=Profile%20Views%20%7C%20%D8%B2%D9%88%D8%A7%D8%B1%20%D8%A7%D9%84%D9%85%D9%84%D9%81&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=1buGaith&label=Profile%20Views%20%7C%20%D8%B2%D9%88%D8%A7%D8%B1%20%D8%A7%D9%84%D9%85%D9%84%D9%81&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 <p align="center">
