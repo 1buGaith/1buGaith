@@ -121,12 +121,9 @@ print("💡 Remember: It's not a bug, it's a feature! 😎")
 
 ---
 
-## 💡 My Quote | مقولتي
-
+## 💡 Random Dev Quote
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad!"</i>
-  <br>
-  <i>"الكود مثل الفكاهة، إذا اضطررت تشرحه، معناه سيء! 😄"</i>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
 ---
 
