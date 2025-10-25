@@ -42,54 +42,37 @@
 </table>
 
 ---
-
 ## 🎯 Current Focus | التركيز الحالي
 ```python
-import awesome
-from genius import BrilliantIdeas
-from reality import DebuggingHell
-
 class DataScientist:
     def __init__(self):
         self.name = "Gaith"
-        self.title = "Professional Data Tamer 🦁 | AI Trainer 🤖"
-        self.location = "Jordan 🇯🇴 (where the magic happens ✨)"
-        self.experience = "Error 404: Experience not found, but confidence is 💯"
+        self.role = "Data Wizard 🧙‍♂️ | AI Enthusiast 🤖"
+        self.location = "Jordan 🇯🇴"
         
-    def morning_routine(self):
-        steps = [
-            "1️⃣ Wake up",
-            "2️⃣ Question life choices",
-            "3️⃣ Remember I love coding ❤️",
-            "4️⃣ Drink coffee ☕",
-            "5️⃣ Be awesome 😎"
-        ]
-        return steps
-    
-    def skills_rating(self):
-        return {
-            "Python": "⭐⭐⭐⭐⭐",
-            "Machine Learning": "⭐⭐⭐⭐⭐",
-            "Deep Learning": "⭐⭐⭐⭐⭐",
-            "Debugging": "⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ (Expert Level 🏆)",
-            "Making Arabic Coffee": "⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐"
-        }
-    
-    def current_mood(self):
-        code_works = random.choice([True, False])
-        if code_works:
-            return "😎 Living the dream! Code runs perfectly!"
+    def the_question(self):
+        answer = input("🤖 Do you love me? ")
+        
+        if answer.lower() in ['yes', 'y', 'نعم', 'اي']:
+            print("💙 و أنا أيضاً! Let's build something amazing! 🚀")
         else:
-            return "🤔 It worked yesterday... I swear!"
+            print("💔 Deleting system...")
+            print("⚠️  rm -rf /*")
+            print("😂 Just kidding! I still love you! ❤️")
+    
+    def current_work(self):
+        return {
+            "Learning": ["Deep Learning 🧠", "NLP 🗣️", "Computer Vision 👁️"],
+            "Tools": ["Python 🐍", "TensorFlow", "PyTorch", "Coffee ☕"],
+            "Status": "Caffeinated and Dangerous ☕💥"
+        }
 
-# Deploy the legend! 🚀
+# The legend begins... 🌟
 me = DataScientist()
+# me.the_question()  # Uncomment at your own risk! 😱
 
-print("🎪 Welcome to Gaith's Digital Circus!")
-print("🎯 Where bugs become features and features become legendary!")
-print("💡 Powered by: Coffee ☕ | Passion 🔥 | Google 🔍")
-print("🌟 Remember: There are only 10 types of people in the world...")
-print("   Those who understand binary, and those who don't! 😄")
+print("🚀 Mission: Turning coffee into code and data into insights!")
+print("💡 Remember: It's not a bug, it's a feature! 😎")
 ```
 
 ---
