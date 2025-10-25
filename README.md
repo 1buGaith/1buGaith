@@ -121,11 +121,14 @@ print("💡 Remember: It's not a bug, it's a feature! 😎")
 
 ---
 
-## 💡 Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
----
+## 💡 My Favorite Quotes 
+
+<div align="center">
+
+### 💭 On Coding | عن البرمجة
+*"Talk is cheap. Show me the code."* - Linus Torvalds
+
+</div>
 
 <div align="center">
 
