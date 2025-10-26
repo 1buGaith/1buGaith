@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Mohammed
 
-### 📊 Data Analyst & AI Enthusiast
+### 📊 Data Analyst & AI Enthusiast.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+%D9%85%D8%AD%D9%84%D9%84+%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA;AI+%26+Machine+Learning+Engineer;Turning+Data+into+Insights)](https://git.io/typing-svg)
 
